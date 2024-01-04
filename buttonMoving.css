@@ -2,7 +2,10 @@
     border:5px solid;
     border-color: blue;
     border-radius: 5px;
+    background-color: aqua;
+    
 }
 .btn:hover{
     transform: translateY(-10px);
+    background-color: blue;
 }
