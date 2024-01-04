@@ -1,0 +1,32 @@
+a {
+    color:blue;
+ 
+}
+
+ a:hover{
+    animation: colorss 8s infinite ;
+    animation-timing-function: ease;
+}
+
+
+
+@keyframes colorss{
+0%{
+     color:aqua;
+}
+20%{
+    color:rgb(89, 178, 234);
+}
+40%{
+ color:rgb(226, 101, 226);
+}
+60%{
+    color:rgb(204, 0, 204);
+}
+80%{
+    color:blueviolet;
+}
+100%{
+    color:rgb(109, 0, 243);
+}
+}

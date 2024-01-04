@@ -1,0 +1,21 @@
+#etstyLink:link{
+color:beige;
+
+}
+#etsyLink:visited{
+    color:darkblue;
+}
+#etsyLink:hover{
+    color:purple;
+}
+
+#googleLink:visited{
+color:darkred;
+}
+#googleLink:hover{
+    color:rgb(46, 184, 11);
+}
+#contactlink:hover{
+    color:darkorange;
+}
+

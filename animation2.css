@@ -1,0 +1,12 @@
+h1{
+    animation: myHeader;
+    animation-duration:5s;
+    animation-delay:1s;
+    animation-timing-function: ease;
+   }
+   
+   @keyframes myHeader{
+       from{margin-right: 100%;}
+       to{margin-right: 0%}
+   }
+
