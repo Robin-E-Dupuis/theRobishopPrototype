@@ -1,11 +1,11 @@
 .btn{
     border:5px solid;
-    border-color: blue;
+    border-color:rgb(255, 255, 186);
     border-radius: 5px;
-    background-color: aqua;
-    
+    background-color: beige;
 }
 .btn:hover{
     transform: translateY(-10px);
-    background-color: blue;
+    background-color:rgb(245, 245, 137);
+    
 }
